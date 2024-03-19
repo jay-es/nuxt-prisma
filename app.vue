@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <NuxtWelcome />
+  <div class="py-6">
+    <NuxtPage />
   </div>
 </template>
